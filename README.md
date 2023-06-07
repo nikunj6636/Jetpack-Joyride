@@ -1,5 +1,8 @@
 # Jetpack Joyride
-<img src="images/game.png">
+<p align="center">
+  <img src="images/game.png" width="60%" height="30%">
+</p>
+
 ---
 
 ### How to run the game
@@ -30,6 +33,11 @@ propelling your character upwards.
 2.  Releasing <kbd> spacebar</kbd> turns
 the jetpack off and your character falls to the ground
 
+### Game Scenarios 
+
+<img src = "images/won.png" width="60%" height="30%">
+<img src = "images/lost.png" width="60%" height="30%">
+
 
 # OpenGL boilerplate
 
@@ -39,12 +47,6 @@ the jetpack off and your character falls to the ground
 - Standard shader class from learnopengl.com and stb_image.h in `include`
 
 - CMake file to compile project (includes glfw, glad, glm and freetype)
-
-
-### Game Scenarios 
-
-<img src = "images/won.png">
-<img src = "images/lost.png">
 
 ## Instructions to build
 
