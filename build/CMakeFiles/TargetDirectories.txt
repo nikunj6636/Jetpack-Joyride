@@ -1,0 +1,9 @@
+/home/nikunj/Desktop/openGl/jetpack_joyride/build/CMakeFiles/app.dir
+/home/nikunj/Desktop/openGl/jetpack_joyride/build/CMakeFiles/glad.dir
+/home/nikunj/Desktop/openGl/jetpack_joyride/build/CMakeFiles/edit_cache.dir
+/home/nikunj/Desktop/openGl/jetpack_joyride/build/CMakeFiles/rebuild_cache.dir
+/home/nikunj/Desktop/openGl/jetpack_joyride/build/libraries/glfw/CMakeFiles/edit_cache.dir
+/home/nikunj/Desktop/openGl/jetpack_joyride/build/libraries/glfw/CMakeFiles/rebuild_cache.dir
+/home/nikunj/Desktop/openGl/jetpack_joyride/build/libraries/glfw/src/CMakeFiles/glfw.dir
+/home/nikunj/Desktop/openGl/jetpack_joyride/build/libraries/glfw/src/CMakeFiles/edit_cache.dir
+/home/nikunj/Desktop/openGl/jetpack_joyride/build/libraries/glfw/src/CMakeFiles/rebuild_cache.dir
